@@ -1,6 +1,6 @@
 # Cobbox - Golet Games
 
-A hypercasual mobile endless runner, inspired by **ZigZag** (Ketchapp).
+A hypercasual mobile endless runner
 
 ## Concept
 A ball moves forward on its own along a narrow, randomly generated zigzag path. Each tap switches its direction between left-diagonal and right-diagonal. If the ball runs off the path, the game is over. Tiles fall away behind the player, gems appear along the path, and the speed slowly increases.
