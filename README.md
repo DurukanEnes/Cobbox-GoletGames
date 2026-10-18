@@ -5,7 +5,9 @@ A hypercasual mobile endless runner made by GoletGames.
 ## Concept
 A ball moves forward on its own along a narrow, randomly generated zigzag path. Each tap switches its direction between left-diagonal and right-diagonal. If the ball runs off the path, the game is over. Tiles fall away behind the player, gems appear along the path, and the speed slowly increases.
 
-- **Controls:** one tap, anywhere on the screen
+On top of the classic zigzag, the path has **gaps between pillars** of different heights. Holding the screen makes the ball **fly up**; releasing it lets the ball **fall**. Gaps only appear on straight sections, so the player never needs to turn and jump at the same time.
+
+- **Controls:** tap to switch direction, hold to fly up over gaps
 - **Goal:** survive as long as possible and beat your best score
 - **Session length:** about 30 seconds to a few minutes
 
@@ -27,6 +29,7 @@ A ball moves forward on its own along a narrow, randomly generated zigzag path. 
 - [ ] Tiles fall after the ball passes
 - [ ] Game over when the ball leaves the path
 - [ ] Score (+1 per tile) and saved best score
+- [ ] Hold-to-fly jump over gaps on straight sections
 - [ ] Collectible gems
 - [ ] Start, game-over and retry screens
 - [ ] Speed that increases over time
